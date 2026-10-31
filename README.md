@@ -1,3 +1,5 @@
+<img src="assets/tech-icon.png" alt="Technology icon" width="96" align="right">
+
 # Evgeniy Klyus
 
 **AI & automation developer · Python · RAG · Telegram bots · DevOps practice**
